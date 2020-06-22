@@ -1,2 +1,2 @@
-# Automatizaci-nDeAplicativosFalabella
+# AutoAplicFala
 Casos automatizados para aplicativos de Falabella
